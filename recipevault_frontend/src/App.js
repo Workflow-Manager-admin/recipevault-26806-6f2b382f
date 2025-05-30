@@ -1,6 +1,10 @@
 import React, { useState } from "react";
 import "./App.css";
 import avocadoToastImg from "./assets/avocado_toast.jpg"; // If image fails to load, try renaming the file and updating this line.
+import classicPancakesImg from "./assets/classic_pancakes.jpg";
+import spaghettiCarbonaraImg from "./assets/spaghetti_carbonara.jpg";
+import chocolateChipCookiesImg from "./assets/chocolate_chip_cookies.jpg";
+import chickenStirFryImg from "./assets/chicken_stir_fry.jpg";
 
 //
 // TROUBLESHOOTING GUIDE:

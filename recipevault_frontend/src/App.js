@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import "./App.css";
-import avocadoToastImg from "./assets/avocado_toast.jpg";
 import classicPancakesImg from "./assets/classic_pancakes.jpg";
 import spaghettiCarbonaraImg from "./assets/spaghetti_carbonara.jpg";
 import chocolateChipCookiesImg from "./assets/chocolate_chip_cookies.jpg";
+import avocadoToastImg from "./assets/avocado_toast.jpg";
 import chickenStirFryImg from "./assets/chicken_stir_fry.jpg";
 
 //

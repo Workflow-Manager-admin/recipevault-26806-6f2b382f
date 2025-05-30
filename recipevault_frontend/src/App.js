@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import "./App.css";
+import avocadoToastImg from "./avocado_toast.jpg";
 
 /*
   PRIMARY COLORS (from requirements):
@@ -90,7 +91,7 @@ const RECIPES = [
     title: "Avocado Toast",
     category: "Breakfast",
     ingredient: "Avocado",
-    image: "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?auto=format&fit=crop&w=400&q=80",
+    image: avocadoToastImg,
     ingredients: [
       "2 slices wholegrain bread",
       "1 ripe avocado",

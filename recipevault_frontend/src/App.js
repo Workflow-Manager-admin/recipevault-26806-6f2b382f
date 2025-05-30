@@ -108,7 +108,7 @@ const RECIPES = [
     title: "Chicken Stir-fry",
     category: "Lunch",
     ingredient: "Chicken",
-    image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80&cb=rv2024",
+    image: "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
     ingredients: [
       "1 chicken breast, sliced",
       "Mixed vegetables",

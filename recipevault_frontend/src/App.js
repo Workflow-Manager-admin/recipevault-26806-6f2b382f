@@ -37,7 +37,7 @@ const RECIPES = [
     title: "Classic Pancakes",
     category: "Breakfast",
     ingredient: "Flour",
-    image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=400&q=80",
+    image: classicPancakesImg,
     ingredients: [
       "1 cup flour",
       "2 tbsp sugar",
@@ -59,7 +59,7 @@ const RECIPES = [
     title: "Spaghetti Carbonara",
     category: "Dinner",
     ingredient: "Pasta",
-    image: "https://images.unsplash.com/photo-1519864600265-c3da1b67a651?auto=format&fit=crop&w=400&q=80",
+    image: spaghettiCarbonaraImg,
     ingredients: [
       "200g spaghetti",
       "100g pancetta",
@@ -82,7 +82,7 @@ const RECIPES = [
     title: "Chocolate Chip Cookies",
     category: "Dessert",
     ingredient: "Chocolate",
-    image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=400&q=80",
+    image: chocolateChipCookiesImg,
     ingredients: [
       "2 1/4 cups flour",
       "1 tsp baking soda",
@@ -125,7 +125,7 @@ const RECIPES = [
     title: "Chicken Stir-fry",
     category: "Lunch",
     ingredient: "Chicken",
-    image: "https://images.unsplash.com/photo-1464306076886-debca5e8a6b0?auto=format&fit=crop&w=400&q=80",
+    image: chickenStirFryImg,
     ingredients: [
       "1 chicken breast, sliced",
       "Mixed vegetables",

@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./App.css";
-import avocadoToastImg from "./avocado_toast.jpg";
+import avocadoToastImg from "./assets/avocado_toast.jpg";
 
 /*
   PRIMARY COLORS (from requirements):

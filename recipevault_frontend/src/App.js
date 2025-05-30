@@ -1,6 +1,18 @@
 import React, { useState } from "react";
 import "./App.css";
-import avocadoToastImg from "./assets/avocado_toast.jpg";
+import avocadoToastImg from "./assets/avocado_toast.jpg"; // If image fails to load, try renaming the file and updating this line.
+
+//
+// TROUBLESHOOTING GUIDE:
+// If the Avocado Toast image does not appear:
+//
+//   - Ensure /src/assets/avocado_toast.jpg is a proper image, not a text placeholder.
+//   - Rename the file, e.g., "avocado_toast_v2.jpg", and update the import here.
+//   - Restart the React dev server (npm start) to clear asset/bundle cache.
+//   - Invalidate browser cache with Ctrl+F5.
+//   - Confirm no typos in the file or import path.
+//   - Check browser dev tools for 404 or image load errors.
+//
 
 /*
   PRIMARY COLORS (from requirements):
